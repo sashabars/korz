@@ -5,9 +5,9 @@
   t.addressFieldLabel = "Адрес"
   t.addressFieldPlaceholder = "Введите ваш адрес"
   t.buyButtonTitle = 'Купить'
-  t.cartButtonLabelOne = "товар"
-  t.cartButtonLabelFew = "товара"
-  t.cartButtonLabelMany = "товаров"
+  t.cartButtonLabelOne = "модель"
+  t.cartButtonLabelFew = "модели"
+  t.cartButtonLabelMany = "моделей"
   t.emptyCart = 'Ваша корзина пуста.'
   t.emailFieldLabel = "Почта"
   t.emailFieldPlaceholder = "Введите вашу почту"
